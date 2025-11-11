@@ -42,20 +42,15 @@ Git, GitHub, Vercel, Railway, Khalti (Payment Integration), WebSockets, SignalR
 
 > I have **7-10 full-stack applications** ready, showcasing modern web app development, realtime features, and scalable backend systems.
 
----
-
-## 📈 GitHub Stats
-
-![Gaurab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ga-urab&show_icons=true&hide_border=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
 
-- Email: your-email@example.com  
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-- Portfolio / Resume: your-portfolio-link  
+- Email: gaurabaryal9@gmail.com  
+- LinkedIn: [linkedin.com/in/gaurab-aryal-b63734270](https://www.linkedin.com/in/gaurab-aryal-b63734270/)  
+- Portfolio / Resume: https://gaurabaryal.com.np 
 
-I’m actively looking for opportunities as a **Full-Stack Developer** or **IT Specialist in Application Development**, especially in **Germany or Scandinavia**.  
+I’m actively looking for opportunities as a **Full-Stack Developer** or **IT Specialist in Application Development**, especially in **Germany*.  
 
 Let’s build something great together!
