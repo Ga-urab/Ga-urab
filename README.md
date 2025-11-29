@@ -1,7 +1,7 @@
 # Hi, I'm Gaurab 👋
 Full-Stack Developer | Next.js | NestJS | React | MongoDB | GraphQL
 
-Welcome to my GitHub! I build **end-to-end web applications** with clean architecture, realtime features, and production-ready deployment. My focus is on **full-stack development**, creating scalable solutions with modern technologies.
+Welcome to my GitHub! I build **end-to-end web applications** with clean architecture, realtime features, and production-ready deployment. My focus is on **full-stack development**, creating scalable solutions with modern technologies. Side note I may not have a lot of GitHub commits because I used GitLab for most of my professional career.
 
 ---
 
